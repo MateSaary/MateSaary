@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4707F7&repeat=false&width=435&lines=Hi%2C+I'm+M%C3%A1t%C3%A9+G.+Sa%C3%A1ry.)](https://git.io/typing-svg)
 # About me
 
 - Studying Computer Science at UCC
@@ -8,10 +9,10 @@
 <details>
 <summary>Languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| English   |
-|     2| Hungarian |
-|     3| Russian   |
-|     4| German    |
+| Language  | Proficiency |
+|----------:|-------------|
+| English   | Fluent      |
+| Hungarian | Native      |
+| Russian   | Fluent      |
+| German    | Basic       |
 </details>
