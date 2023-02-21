@@ -5,8 +5,8 @@
 - Current focus on Python, HTML/CSS, JavaScript, C++.
 - Hobbyist photographer. View some of my work on [my Instagram](https://www.instagram.com/matesaary/).
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:devmetics-->
+<!--END_SECTION:devmetics-->
 
 <details>
 <summary>Languages</summary>
