@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=4707F7&repeat=false&width=600&height=60&lines=Hi%2C+I'm+M%C3%A1t%C3%A9+G.+Sa%C3%A1ry.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=4707F7&repeat=false&width=600&height=65&lines=Hi%2C+I'm+M%C3%A1t%C3%A9+G.+Sa%C3%A1ry.)](https://git.io/typing-svg)
 # About me
 
 - Studying Computer Science at UCC
