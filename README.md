@@ -8,7 +8,7 @@
 <!--START_SECTION:devmetics-->
 <!--END_SECTION:devmetics-->
 
-<details>
+
 <summary>Languages</summary>
 
 | Language  | Proficiency |
@@ -17,4 +17,4 @@
 | Hungarian | Native      |
 | Russian   | Fluent      |
 | German    | Basic       |
-</details>
+
