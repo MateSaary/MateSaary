@@ -11,7 +11,7 @@
 <details>
 <summary>Languages</summary>
 
-| Language  | Proficiency |
+| Language  | Proficiency |       | Language  | Proficiency |
 |----------:|-------------|
 | English   | Fluent      |
 | Hungarian | Native      |
