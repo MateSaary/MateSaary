@@ -4,6 +4,7 @@
 - Studying BSc. in Computer Science at UCC
 - Current focus on Python, HTML/CSS, JavaScript, C++.
 - Hobbyist photographer. View some of my work on [my Instagram](https://www.instagram.com/matesaary/).
+- Self-proclaimed tea connoisseur
 
 <!--START_SECTION:devmetics-->
 <!--END_SECTION:devmetics-->
