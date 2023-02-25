@@ -3,7 +3,7 @@
 
 - Studying BSc. in Computer Science at UCC
 - Current focus on Python, HTML/CSS, JavaScript, C++.
-- Experience using Flask framework and Jinja web templating engine.
+- Experience using Flask microframework and Jinja web templating engine.
 - Hobbyist photographer. View some of my work on [my Instagram](https://www.instagram.com/matesaary/).
 
 <!--START_SECTION:devmetics-->
