@@ -2,8 +2,8 @@
 # About me
 
 - Studying BSc. in Computer Science at UCC
-- Current focus on Python, HTML/CSS, JavaScript, C++.
-- Experience using Flask microframework and Jinja web templating engine.
+- Current focus on Python, JavaScript, SQL, HTML/CSS.
+- Experience using Flask microframework, Jinja web templating engine and Ajax.
 - Hobbyist photographer. View some of my work on [my Instagram](https://www.instagram.com/matesaary/).
 
 <!--START_SECTION:devmetics-->
@@ -14,7 +14,7 @@
 
 | Language  | Proficiency |
 |----------:|-------------|
-| English   | Fluent      |
+| English   | Native      |
 | Hungarian | Native      |
 | Russian   | Fluent      |
 | German    | Basic       |
