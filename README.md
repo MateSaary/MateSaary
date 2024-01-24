@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=flat-square&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)&&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=flat-square&logo=tailwindcss)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)&nbsp;
 ![Jinja](https://img.shields.io/badge/Jinja-333333?style=flat-square&logo=jinja)&nbsp;
