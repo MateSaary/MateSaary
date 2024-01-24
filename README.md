@@ -9,7 +9,7 @@
 
 #### Languages:
 
-![Python](https://img.shields.io/badge/PythonFFD43Bstyle=flatsquare&logo=python&logoColor=FFD43B&labelColor=4B8BBE&color=4B8BBE)&nbsp;
+![Python](https://img.shields.io/badge/Python-0078d7?style=flat-square&logo=python&logoColor=FFD43B)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logoColor=FFD43B&color=f89820)&nbsp;
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)&nbsp;
