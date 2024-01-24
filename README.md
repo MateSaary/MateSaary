@@ -33,12 +33,9 @@
 <!--END_SECTION:devmetics-->
 
 
-# Languages
+#### I speak:
 
-| Language  | Proficiency |
-|----------:|-------------|
-| English   | Native      |
-| Hungarian | Native      |
-| Russian   | Fluent      |
-| German    | Basic       |
-
+- English
+- Hungarian
+- Russian
+- German
