@@ -11,6 +11,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0078d7?style=flat-square&logo=python&logoColor=FFD43B)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-steelblue?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logoColor=FFD43B&color=f89820)&nbsp;
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)&nbsp;
 
@@ -22,8 +23,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=flat-square&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-384d54?style=flat-square&logo=kubernetes)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-384d54?style=flat-square&logo=ansible)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?style=flat-square&logo=tailwindcss)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)&nbsp;
 ![Jinja](https://img.shields.io/badge/Jinja-333333?style=flat-square&logo=jinja)&nbsp;
