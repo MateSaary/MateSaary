@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=4707F7&repeat=false&width=600&height=65&lines=Hi%2C+I'm+M%C3%A1t%C3%A9+G.+Sa%C3%A1ry.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&color=14B8A6&random=false&width=600&height=70&lines=Hi%2C+I'm+M%C3%A1t%C3%A9+G.+Sa%C3%A1ry.)](https://git.io/typing-svg)
 # About me
 
 - Systems Administrator @ [NetSoc](https://netsoc.co/rk/)
