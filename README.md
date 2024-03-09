@@ -13,7 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-steelblue?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logoColor=FFD43B&color=f89820)&nbsp;
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)&nbsp;
 
 #### Database:
 
